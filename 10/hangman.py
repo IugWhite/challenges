@@ -34,8 +34,6 @@ class Hangman:
             print('{} already picked\n'.format(letter))
         else:
             print('This character is not valid\n')
-    
-# or use functions ...
 
 
 if __name__ == '__main__':
