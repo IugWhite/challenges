@@ -1,5 +1,6 @@
 from string import ascii_lowercase
 import sys
+import re
 
 from movies import get_movie as get_word  # keep interface generic
 from graphics import hang_graphics
